@@ -24,9 +24,9 @@
 Рис.-8 Диаграмма классов
 
 ##### Диаграмма Ганта
-![AA18C58D-6001-4530-A65F-929194000D8A](https://user-images.githubusercontent.com/66676653/84504467-0fb4c600-accd-11ea-8d0b-930ced73c099.jpeg)
+![AA18C58D-6001-4530-A65F-929194000D8A](https://github.com/smolinap/BgTeam/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/P_6Ah4CvRd0.jpg)
 ##### Доска Agile
-![8571686F-EF4E-4FD4-AF1D-B246E7104C9E](https://user-images.githubusercontent.com/66676653/84507511-fd895680-acd1-11ea-803f-1e77168629b5.jpeg)
+![8571686F-EF4E-4FD4-AF1D-B246E7104C9E](https://github.com/smolinap/BgTeam/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B/yHxdpwr6spg.jpg)
 
 
 # Рейтинговая система
