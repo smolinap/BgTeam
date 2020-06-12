@@ -12,11 +12,15 @@
 Рис.-5 Пример окна поиска
 
 #### UML диаграммы 
-![Гость и пользователь](https://user-images.githubusercontent.com/66676653/84503400-2e19c200-accb-11ea-81f9-fc7f09cdeb36.png)
-Рис.-6 Диаграмма прецедентов: гость/пользователь
-![Модератор и админ](https://user-images.githubusercontent.com/66676653/84503511-66b99b80-accb-11ea-9f04-fa667bed806e.png)
-Рис.-7 Диаграмма прецедентов: модератор/админ
-![Диаграмма классов](https://user-images.githubusercontent.com/66676653/84503611-949ee000-accb-11ea-8e69-5b32f39659a2.png)
+![Гость и пользователь](https://github.com/smolinap/BgTeam/blob/master/%D0%93%D0%BE%D1%81%D1%82%D1%8C%20%D0%B8%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C.png)
+>Рис.-6 Диаграмма прецедентов: гость/пользователь
+
+![Модератор и админ](https://github.com/smolinap/BgTeam/blob/master/%D0%9C%D0%BE%D0%B4%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%20%D0%B8%20%D0%B0%D0%B4%D0%BC%D0%B8%D0%BD.png)
+
+>Рис.-7 Диаграмма прецедентов: модератор/админ
+
+![Диаграмма классов](https://github.com/smolinap/BgTeam/blob/master/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0%20%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D0%BE%D0%B2.png)
+
 Рис.-8 Диаграмма классов
 
 ##### Диаграмма Ганта
